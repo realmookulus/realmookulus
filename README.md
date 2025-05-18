@@ -20,8 +20,8 @@ Try me. 😉
 ### 🚀 Projects in Progress
 - 🧸 **Furbyverse** — Full-stack Furby eCommerce & collector platform (GPT, Sprite Matching, TV Streaming)
 - 🛠 **QA.exe** — Automation-first QA consulting brand
-- 🔐 **gpt-run.sh** — AI-powered local assistant for committing, staging, and deploying
-- 📦 **PulseCraft** *(Private)* — Experimental AI-driven JOI content engine
+- 🔐 **GPT-RUN** — AI-powered local assistant for committing, staging, and deploying
+- 📦 **PulseCraft** — Experimental AI-driven - BPM tracking - content engine
 
 ---
 
