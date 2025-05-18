@@ -1,31 +1,37 @@
 # 👋 Hi, I'm Mookulus
 
-**QA Engineer • Automation Strategist • Full-Stack Tinkerer • AI Commander**
+**Automation Engineer • AI Architect • Full-Stack Systems Strategist**
 
-I build systems that test themselves, automate everything, and let me stay hands-on only where it counts.
+I don’t just use AI — I weaponize it.  
+You give me an idea, I’ll build you an empire.  
+Try me. 😉
 
 ---
 
 ### 🧰 Tech Arsenal
-- **Automation**: Cypress, Ghost Inspector, Postman, Supertest, In-House Frameworks
-- **QA Systems**: Jira, Zephyr, GitHub Actions, CI/CD pipelines, Zephyr and other testing tools
+- **Automation**: Cypress, Ghost Inspector, Postman, Supertest
+- **QA Systems**: Jira, Zephyr, GitHub Actions, CI/CD pipelines
 - **Web Dev**: Next.js, TailwindCSS, Supabase, Node.js, Stripe
 - **Cloud/Infra**: Vercel, AWS, GitHub CLI
-- **AI Integration**: OpenAI (GPT), LLM-enhanced workflows
+- **AI Integration**: OpenAI (GPT), custom workflows, code generation
 
 ---
 
 ### 🚀 Projects in Progress
-- 🧸 **Furbyverse** — Full-stack Furby eCommerce & collector platform (GPT, Sprite Matching, TV Streaming, Sick Custom Profiles(fully HTML editable!)
-- 🛠 **QA.exe** — Automation-first - QA consulting brand
-- 🔐 **GPT.RUN** — AI-powered local assistant for committing, staging, and deploying
-- 📦 **PulseCraft** - Beat Detection software, Automapping per BPM
+- 🧸 **Furbyverse** — Full-stack Furby eCommerce & collector platform (GPT, Sprite Matching, TV Streaming)
+- 🛠 **QA.exe** — Automation-first QA consulting brand
+- 🔐 **gpt-run.sh** — AI-powered local assistant for committing, staging, and deploying
+- 📦 **PulseCraft** *(Private)* — Experimental AI-driven JOI content engine
 
 ---
 
-### 💬 Fun Fact
-I don’t write every line of code — I architect the stack and let AI build it for me.  
-I make AI my b*tch, and it loves me for it. I can Literlly build ANYTHING, try me 😉
+### 🧠 Philosophy
+Yes — anyone can *use* AI.  
+But not everyone knows how to plan a project, prompt with precision, and build scalable systems that don’t break the second you blink.
+
+That’s the difference.  
+That’s why with AI in my pocket...  
+> **I can build ANYTHING. again..Try me! 😉**
 
 ---
 
