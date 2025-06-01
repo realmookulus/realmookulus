@@ -1,10 +1,48 @@
 # 👋 Hi, I'm Mark
 
 **Automation Engineer • AI Architect • Full-Stack Systems Strategist**
+### 🛠️ Automation Specialist • QA Engineer • Systems Builder
+
+Give me access.  
+Give me a goal.  
+Then sit back and relax — I’ll handle the heavy lifting.
+
+I specialize in:
+- 🔁 End-to-end Cypress automation
+- 🧠 AI-assisted testing and tooling
+- ⚙️ Custom DOM mapping + auto-tagging
+- 🧪 Backend & API test coverage
+- 🚀 Fast, clean, repeatable systems
+
+I build scalable QA suites in hours, not weeks.  
+Looking to supercharge your test coverage or deploy smarter automation?  
+Let’s talk.
 
 I don’t just use AI — I weaponize it.  
 You give me an idea, I’ll build you an empire.  
 Try me. 😉
+
+🧱 Want More Than Just Tests?
+
+If you need a full QA ecosystem, I build those too:
+	•	🧪 Manual test plans (100–500+ cases)
+	•	✅ Scalable E2E automation with Cypress
+	•	🧰 GitHub Actions + Merge Rules
+	•	🧩 Jira workflows, releases, traceability
+	•	🔄 Slack + GitHub + CI/CD integration
+	•	🚀 Automated QA reporting, tagging, and coverage visibility
+
+From zero to fully operational QA system — I can build it, own it, and hand it off.
+
+⸻
+
+🔧 You’re offering:
+	•	QA tooling setup
+	•	Process automation
+	•	Reporting + releases
+	•	Merge + branching strategy
+	•	Tagging systems and alerts
+	•	And long-term scale with AI-powered efficiency
 
 ---
 
