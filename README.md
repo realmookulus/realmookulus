@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mookulus
+# 👋 Hi, I'm Mark
 
 **Automation Engineer • AI Architect • Full-Stack Systems Strategist**
 
