@@ -79,6 +79,10 @@ That’s why with AI in my pocket...
 
 Need a short-term build, test automation setup, or full QA system delivered fast?
 
+📘 Documentation Included:
+Every build comes with clean, visual documentation — not just install steps, but complete usage guides, workflows, and troubleshooting for junior-level handoff.
+If I build it, your team will *understand* it.
+
 📫 Reach out — I’m currently accepting select contracts.
 
 📦 Contract Rate: Starting at $100/hr
