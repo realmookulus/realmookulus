@@ -75,3 +75,10 @@ That’s why with AI in my pocket...
 
 ### 📫 Let’s Connect
 [GitHub](https://github.com/realmookulus) • [Email](mailto:mrosenthal@live.com) • [Coming Soon: mookulus.dev]
+🧩 Available for Contract Work
+
+Need a short-term build, test automation setup, or full QA system delivered fast?
+
+📫 Reach out — I’m currently accepting select contracts.
+
+📦 Contract Rate: Starting at $100/hr
