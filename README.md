@@ -1,5 +1,10 @@
-# 👋 Hi, I'm Mark
+# Hi, I'm Mark — QA Engineer & Automation Architect
 
+You’ve got a product.
+You need clean, scalable QA — fast.
+That’s what I do.
+
+I build automation, test ecosystems, and AI-powered QA systems that scale without breaking your dev velocity.
 **Automation Engineer • AI Architect • Full-Stack Systems Strategist**
 ### 🛠️ Automation Specialist • QA Engineer • Systems Builder
 
