@@ -65,7 +65,7 @@ But not everyone knows how to plan a project, prompt with precision, and build s
 
 That’s the difference.  
 That’s why with AI in my pocket...  
-> **I can build ANYTHING. again..Try me! 😉**
+> **I can TEST and AUTOMATE ANYTHING**
 
 ---
 
