@@ -37,11 +37,10 @@ If you need a full QA ecosystem, I build those too:
 	•	🔄 Slack + GitHub + CI/CD integration
 	•	🚀 Automated QA reporting, tagging, and coverage visibility
 
-From zero to fully operational QA system — I can build it, own it, and hand it off.
+From zero to a fully operational QA system — I can build it, own it, and hand it off.
 
 ⸻
 
-🔧 You’re offering:
 	•	QA tooling setup
 	•	Process automation
 	•	Reporting + releases
@@ -51,14 +50,6 @@ From zero to fully operational QA system — I can build it, own it, and hand it
 
 ---
 
-### 🧰 Tech Arsenal
-- **Automation**: Cypress, Ghost Inspector, Postman, Supertest
-- **QA Systems**: Jira, Zephyr, GitHub Actions, CI/CD pipelines
-- **Web Dev**: Next.js, TailwindCSS, Supabase, Node.js, Stripe
-- **Cloud/Infra**: Vercel, AWS, GitHub CLI
-- **AI Integration**: OpenAI (GPT), custom workflows, code generation
-
----
 
 ### 🚀 Projects in Progress
 - 🧸 **Furbyverse** — Full-stack Furby eCommerce & collector platform (GPT, Sprite Matching, TV Streaming)
@@ -79,7 +70,7 @@ That’s why with AI in my pocket...
 ---
 
 ### 📫 Let’s Connect
-[GitHub](https://github.com/realmookulus) • [Email](mailto:mrosenthal@live.com) • [Coming Soon: mookulus.dev]
+[GitHub](https://github.com/realmookulus) • [Email](mailto:mrosenthal@live.com)
 🧩 Available for Contract Work
 
 Need a short-term build, test automation setup, or full QA system delivered fast?
