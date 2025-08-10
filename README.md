@@ -1,4 +1,4 @@
-Hi, I’m Mark — QA Engineer & Automation Architect
+# Hi, I’m Mark — QA Engineer & Automation Architect
 
 You’ve got a product.
 You need clean, scalable QA — fast.
