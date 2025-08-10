@@ -1,35 +1,72 @@
-# Hi, I'm Mark — QA Engineer & Automation Architect
+Hi, I’m Mark — QA Engineer & Automation Architect
 
 You’ve got a product.
 You need clean, scalable QA — fast.
 That’s what I do.
 
-I build automation, test ecosystems, and AI-powered QA systems that scale without breaking your dev velocity.
-**Automation Engineer • AI Architect • Full-Stack Systems Strategist**
-### 🛠️ Automation Specialist • QA Engineer • Systems Builder
+9+ years building scalable QA systems that ship faster without sacrificing quality.
+Specializing in end-to-end automation, release governance, and AI-driven test tooling.
 
-Give me access.  
-Give me a goal.  
-Then sit back and relax — I’ll handle the heavy lifting.
+⸻
 
-I specialize in:
-- 🔁 End-to-end Cypress automation
-- 🧠 AI-assisted testing and tooling
-- ⚙️ Custom DOM mapping + auto-tagging
-- 🧪 Backend & API test coverage
-- 🚀 Fast, clean, repeatable systems
+🔹 What I Do
+	•	Build complete QA ecosystems from zero → fully automated, documented, and CI/CD-integrated
+	•	Engineer automation suites (Cypress, Playwright, Appium) for UI, API, and mobile
+	•	Harden release workflows in Jira & GitHub — versioning, sign-off gates, and freeze protocols
+	•	Train teams to own and expand automation without breaking velocity
 
-I build scalable QA suites in hours, not weeks.  
-Looking to supercharge your test coverage or deploy smarter automation?  
-Let’s talk.
+⸻
 
-I don’t just use AI — I weaponize it.  
-You give me an idea, I’ll build you an empire.  
-Try me. 😉
+🔹 Core Skills
+	•	Test Automation: Cypress, Playwright, Appium, Selenium
+	•	Backend & API Testing: Postman, REST, GraphQL, SQL validation
+	•	CI/CD & DevOps: GitHub Actions, Jenkins, Kubernetes, AWS, GCP
+	•	Release Governance: Jira workflows, version control strategy, traceability
+	•	AI Tooling: Prompt engineering, auto-tagging, DOM mapping, AI-driven coverage
 
-🧱 Want More Than Just Tests?
+⸻
 
-If you need a full QA ecosystem, I build those too:
+💥 Special Offer — $2,500 for 25 Cypress Tests 💥
+
+Need automation fast?
+I’ll deliver 25 production-ready Cypress tests in 3 days — ready to drop straight into your release pipeline.
+
+What’s Included:
+	•	✅ Tests for your most critical paths (you choose)
+	•	✅ UI validation across key pages
+	•	✅ Remaining tests used for full-site smoke coverage
+	•	✅ Full documentation + video walkthrough of coverage
+	•	✅ Flawless delivery — 9+ years QA automation experience
+
+Terms:
+	•	📆 Delivery in 3 days
+	•	💵 50% upfront to start
+	•	🎯 Start immediately once paths are defined
+
+📩 Let’s build you some tests that run themselves.
+
+⸻
+
+🔹 Personal Projects
+
+TestGhost — QA Consulting Brand
+
+Full-stack QA solutions for startups & SaaS teams: automation builds, CI/CD integration, and governance systems.
+
+BuildGhost — AI-Powered Test Framework (WIP)
+
+Collector eCommerce Platform — Next.js + Supabase + Stripe + AI for cataloging and trading vintage collectibles.
+
+⸻
+
+🔹 Why Work With Me
+	•	I deliver production-ready QA systems in days, not months
+	•	I document everything so your team can run it without me
+	•	I’ve scaled QA for fast-moving, high-visibility products — web, mobile, and backend
+
+⸻
+
+🧱 More Than Just Tests
 	•	🧪 Manual test plans (100–500+ cases)
 	•	✅ Scalable E2E automation with Cypress
 	•	🧰 GitHub Actions + Merge Rules
@@ -41,44 +78,10 @@ From zero to a fully operational QA system — I can build it, own it, and hand 
 
 ⸻
 
-	•	QA tooling setup
-	•	Process automation
-	•	Reporting + releases
-	•	Merge + branching strategy
-	•	Tagging systems and alerts
-	•	And long-term scale with AI-powered efficiency
+📫 Let’s Connect
 
----
-
-
-### 🚀 Projects in Progress
-- 🧸 **Furbyverse** — Full-stack Furby eCommerce & collector platform (GPT, Sprite Matching, TV Streaming)
-- 🛠 **QA.exe** — Automation-first QA consulting brand
-- 🔐 **GPT-RUN** — AI-powered local assistant for committing, staging, and deploying
-- 📦 **PulseCraft** — Experimental AI-driven - BPM tracking - content engine
-
----
-
-### 🧠 Philosophy
-Yes — anyone can *use* AI.  
-But not everyone knows how to plan a project, prompt with precision, and build scalable systems that don’t break the second you blink.
-
-That’s the difference.  
-That’s why with AI in my pocket...  
-> **I can TEST and AUTOMATE ANYTHING**
-
----
-
-### 📫 Let’s Connect
-[GitHub](https://github.com/realmookulus) • [Email](mailto:mrosenthal@live.com)
+GitHub • Email
 🧩 Available for Contract Work
 
-Need a short-term build, test automation setup, or full QA system delivered fast?
-
-📘 Documentation Included:
-Every build comes with clean, visual documentation — not just install steps, but complete usage guides, workflows, and troubleshooting for junior-level handoff.
-If I build it, your team will *understand* it.
-
-📫 Reach out — I’m currently accepting Contracts and select Full Time Positions
-
 📦 Contract Rate: Starting at $100/hr
+📘 Every build comes with clean, visual documentation — not just install steps, but complete usage guides, workflows, and troubleshooting for junior-level handoff.
