@@ -1,74 +1,57 @@
 # Hi, I’m Mark — QA Engineer & Automation Architect
 
-You’ve got a product. You need clean, scalable QA — fast. That’s what I do.  
+I build automation systems that help teams ship faster without losing quality.  
 
-9+ years designing and scaling QA systems that ship faster without sacrificing quality. I specialize in end-to-end automation, release governance, and AI-driven test tooling. Available for **contract work** and **select full-time roles** where I can lead automation strategy, scale QA teams, and strengthen release pipelines.
+Over 9 years of experience designing and scaling QA architectures across web, mobile, and API platforms. I specialize in **Cypress**, **Playwright**, and **CI/CD automation**, with a focus on reliability, maintainability, and measurable impact. Passionate about bringing stability to fast-moving development environments through modern, data-driven QA practices.
 
 ---
 
 ## What I Do
-- Build complete QA ecosystems from zero → fully automated, documented, and CI/CD-integrated  
-- Engineer automation suites (Cypress, Playwright, Appium) for UI, API, and mobile  
-- Harden release workflows in Jira & GitHub — versioning, sign-off gates, and freeze protocols  
-- Train teams to own and expand automation without breaking velocity  
+- Build complete QA ecosystems: automated, documented, and CI/CD-integrated  
+- Engineer end-to-end test frameworks for UI, API, and mobile  
+- Integrate QA into release pipelines with versioning, gates, and traceability  
+- Mentor engineers and teams to scale QA with confidence  
 
 ---
 
 ## Core Skills
-- **Test Automation:** Cypress, Playwright, Appium, Selenium  
-- **Backend & API Testing:** Postman, REST, GraphQL, SQL validation  
-- **CI/CD & DevOps:** GitHub Actions, Jenkins, Kubernetes, AWS, GCP  
-- **Release Governance:** Jira workflows, version control strategy, traceability  
-- **AI Tooling:** Prompt engineering, auto-tagging, DOM mapping, AI-driven coverage  
+- **Automation:** Cypress, Playwright, Appium, Selenium  
+- **API & Backend Testing:** Postman, REST, GraphQL, SQL validation  
+- **CI/CD & DevOps:** GitHub Actions, Jenkins, Docker, Kubernetes, AWS, GCP  
+- **Quality Strategy:** Shift-left testing, release governance, observability  
+- **AI & Innovation:** DOM mapping, auto-tagging, AI-assisted test generation  
 
 ---
 
-# 💥 Special Offer — $2,500 for 25 Cypress Tests
-
-Need automation fast? I’ll deliver 25 production-ready Cypress tests in 3 days — ready to drop straight into your release pipeline.  
-
-**Includes:**  
-- Tests for your most critical paths (you choose)  
-- UI validation across key pages  
-- Remaining tests used for full-site smoke coverage  
-- Full documentation + video walkthrough  
-- 9+ years QA automation experience  
-
-**Terms:**  
-- Delivery in 3 days  
-- 50% upfront to start  
-- Start immediately once paths are defined  
+## Highlights & Achievements
+- Reduced regression cycles from **2 weeks to 1 day** via parallelized Cypress suites  
+- Cut test flakiness by **60%+** with CI-driven stability dashboards  
+- Led QA automation migration from Angular → React without CI/CD disruption  
+- Founded and led a QA Guild embedding shift-left practices org-wide  
+- Developed internal frameworks and libraries now used across multiple teams  
 
 ---
 
 ## Personal Projects
-**TestGhost — QA Consulting Brand**  
-Full-stack QA solutions for startups & SaaS teams: automation builds, CI/CD integration, and governance systems.  
+**🧠 BuildGhost (WIP)**  
+An experimental AI-powered QA framework for intelligent test tagging and DOM mapping.  
 
-**BuildGhost — AI-Powered Test Framework (WIP)**  
+**🧩 TestGhost**  
+An internal initiative focused on improving QA velocity through automation tooling, metrics, and early-stage consulting.  
 
-**Collector eCommerce Platform** — Next.js + Supabase + Stripe + AI for cataloging and trading vintage collectibles.  
-
----
-
-## Why Work With Me
-- Deliver production-ready QA systems in days, not months  
-- Document everything so your team can run it without me  
-- Scaled QA for high-visibility products — web, mobile, backend  
+**💻 Collector eCommerce Platform**  
+A side project built with Next.js, Supabase, and Stripe — exploring scalable architecture, CI/CD automation, and QA observability for eCommerce systems.  
 
 ---
 
-## Services Beyond Automation
-- Manual test plans (100–500+ cases)  
-- Scalable E2E automation with Cypress  
-- GitHub Actions + merge rules  
-- Jira workflows, releases, traceability  
-- Slack + GitHub + CI/CD integration  
-- Automated QA reporting, tagging, coverage visibility  
+## Why I Build
+I’m passionate about automation as more than a tool — it’s a catalyst for developer confidence and release velocity. My goal is always the same: make quality measurable, predictable, and fast.  
 
 ---
 
-## Availability
-- **Contract rate:** starting at $100/hr  
-- Open to **select full-time positions** aligned with QA leadership, automation architecture, and CI/CD strategy  
-- Every build includes clean, visual documentation — not just install steps, but complete usage guides, workflows, and troubleshooting for junior-level handoff  
+## Let’s Connect
+- **Email:** buildghost.dev@gmail.com  
+- **LinkedIn:** [in/markrosenthalqa](https://linkedin.com/in/markrosenthalqa)  
+- **GitHub:** [realmookulus](https://github.com/realmookulus)  
+
+Currently open to collaborations, QA architecture discussions, and opportunities to drive automation strategy at scale.
